@@ -3,7 +3,7 @@
 using namespace std;
 
 int main() {
-	string fileName = R"(C:\Users\Xin\source\repos\OsuAimbot\OsuAimbot\Timings.txt)";
+	string fileName = R"(PATH/TO/Timings.txt)";
 	cout << fileName << endl;
 
 	Start(fileName);
